@@ -1,0 +1,22 @@
+[
+{
+  "modid": "AppliedForestry",
+  "name": "Applied Forestry",
+  "description": "A mod that adds greater interoperability between Applied Energistics and Forestry.",
+  "version": "0.0.01.001-dev",
+  "url": "www.github.com/myoKun345/AppliedForestry/",
+  "updateUrl": "",
+  "authorList": [
+    "Myo-kun"
+  ],
+  "credits": "By Myo-kun; thanks to Pahimar for his Let's Mod series, AlgorithmX2 for Applied Energistics and Sengir and the whole Forestry team for Forestry!",
+  "logoFile": "",
+  "screenshots": [
+  ],
+  "parent":"",
+  "dependencies": [
+	"AppliedEnergistics",
+	"Forestry"
+  ]
+}
+]
